@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Tämän tekstin tarkoitus on vain havainnollistaa, että muutoksia on tehty muuten tyhjään projektiin.</Text>
       <StatusBar style="auto" />
     </View>
   );
